@@ -11,7 +11,7 @@
 		"url": "https://github.com/PlayFab/vanguard-outrider"
 	},
 	"dependencies": {
-		"@fluentui/react": "^8.36.4",
+		"@fluentui/react": "^8.108.2",
 		"@reduxjs/toolkit": "^1.6.2",
 		"@uifabric/styling": "^7.19.1",
 		"playfab-web-sdk": "^1.93.210927",
